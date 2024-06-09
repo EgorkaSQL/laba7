@@ -1,0 +1,4 @@
+insert
+show
+info
+history
