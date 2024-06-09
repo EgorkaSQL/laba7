@@ -9,7 +9,7 @@ public class DataBaseManager
 
     private static final String DATABASE_URL = "jdbc:postgresql://localhost:5432/studs";
     private static final String DATABASE_USER = "s408840";
-    private static final String DATABASE_PASSWORD = "1k0hobfAIavVHBnW";
+    private static final String DATABASE_PASSWORD = "пароль";
 
     public Connection getConnection() throws SQLException
     {
